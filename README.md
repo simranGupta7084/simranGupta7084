@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Simran Gupta<br><br>🔭 I’m currently working on<br>Building data analytics projects and backend systems using Python, SQL, and Power BI<br><br>🤝 I’m looking to collaborate on<br>Data analytics projects, dashboard development, and backend APIs<br><br>🆘 I’m looking for help with<br>Advanced data modelling, machine learning, and scalable system design<br><br>🌱 I’m currently learning<br>Data structures & algorithms, machine learning, and advanced SQL<br><br>💬 Ask me about<br>Python, SQL, Power BI dashboards, data analysis, and backend development<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights and solving real-world problems through code 🚀
+👋 Hi, I'm Simran Gupta<br><br>🔭 I’m currently working on<br>Building data analytics projects and backend systems using Python, SQL, and Power BI<br><br>🤝 I’m looking to collaborate on<br>Data analytics projects, dashboard development, and backend APIs<br><br>🆘 I’m looking for help with<br>Advanced data modelling, machine learning, and scalable system design<br><br>🌱 I’m currently learning<br>Data structures & algorithms, machine learning, and advanced SQL<br><br>💬 Ask me about<br>Python, SQL, Power BI dashboards, data analysis, and backend development<br><br>⚡ Fun fact<br>I enjoy stepping out of my comfort zone and learning new skills through hands-on practice 🚀
 
 
 ## 🌐 Socials:
@@ -10,9 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=simranGupta7084&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=simranGupta7084&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=simranGupta7084&icon=0&color=0)](https://visitcount.itsvg.in)
