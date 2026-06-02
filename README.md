@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Simran Gupta<br><br>🔭 I’m currently working on<br>Building data analytics projects and backend systems using Python, SQL, and Power BI<br><br>🤝 I’m looking to collaborate on<br>Data analytics projects, dashboard development, and backend APIs<br><br>🆘 I’m looking for help with<br>Advanced data modelling, machine learning, and scalable system design<br><br>🌱 I’m currently learning<br>Data structures & algorithms, machine learning, and advanced SQL<br><br>💬 Ask me about<br>Python, SQL, Power BI dashboards, data analysis, and backend development<br><br>⚡ Fun fact<br>I enjoy stepping out of my comfort zone and learning new skills through hands-on practice 🚀
+👋 Hi, I'm Simran Gupta<br><br>🔭 I’m currently working on<br>Building data analytics projects and machine learning using Python, SQL,R,Statistical analysis and Power BI<br><br>🤝 I’m looking to collaborate on<br>Seeking opportunities to deepen ML knowledge through practical learning Internship and research-oriented programs.<br><br>🆘 I’m  Passionate about<br> Artificial Intelligence and Machine Learning with hands-on experience in data, exploratory data analysis, model building, evaluation and scalable system design<br><br>🌱 I’m currently learning<br>Data structures & algorithms, machine learning Model, and advanced SQL<br><br>💬 Ask me about<br>Python, SQL, Python, SQL, R, C++
+Machine Learning: Supervised Learning, Unsupervised Learning, Classification, Regression, Recommenda-
+tion Systems<br><br>⚡ Fun fact<br>I enjoy stepping out of my comfort zone and learning new skills through hands-on practice 🚀
 
 
 ## 🌐 Socials:
