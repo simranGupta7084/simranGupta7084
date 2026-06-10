@@ -23,11 +23,11 @@
 
 ## 👩‍💻 About Me
 
-I am a **final year Computer Science undergraduate** specializing in Data Science at Maharana Pratap Engineering College, Kanpur. I enjoy building practical machine learning systems — from NLP-powered recommendation engines to predictive dashboards that drive real business decisions.
+I'm Simran — a final year CSE (Data Science) student from Kanpur who got hooked on ML the moment I saw a recommendation engine predict something right. Since then I've been building — a customer behavior classifier, a startup growth predictor, an NLP-based internship recommender.
 
-I got hooked on ML the moment I saw a recommendation engine predict something right. Since then I have been building, learning, and going deeper — one model at a time.
+I'm not the kind of developer who only codes for grades. I code because I genuinely want to understand how intelligent systems work.
 
-> *"I don't just study data science — I build with it."*
+Still learning. Always building. 🚀
 
 Currently focused on **machine learning, NLP, predictive analytics, feature engineering, and deep learning.**
 
