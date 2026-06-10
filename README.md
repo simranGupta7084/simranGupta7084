@@ -1,19 +1,93 @@
-# 💫 About Me:
-👋 Hi, I'm Simran Gupta<br><br>🔭 I’m currently working on<br>Building data analytics projects and machine learning using Python, SQL,R,Statistical analysis and Power BI<br><br>🤝 I’m looking to collaborate on<br>Seeking opportunities to deepen ML knowledge through practical learning Internship and research-oriented programs.<br><br>🆘 I’m  Passionate about<br> Artificial Intelligence and Machine Learning with hands-on experience in data, exploratory data analysis, model building, evaluation and scalable system design<br><br>🌱 I’m currently learning<br>Data structures & algorithms, machine learning Model, and advanced SQL<br><br>💬 Ask me about<br>Python, SQL, Python, SQL, R, C++
-Machine Learning: Supervised Learning, Unsupervised Learning, Classification, Regression, Recommenda-
-tion Systems<br><br>⚡ Fun fact<br>I enjoy stepping out of my comfort zone and learning new skills through hands-on practice 🚀
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff6b6b,35:feca57,70:48dbfb,100:5f27cd&text=Kritika%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20ML%20Builder%20%7C%20IIT%20Kanpur%20Intern&descAlignY=58&animation=fadeIn" alt="Kritika Gupta banner" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Building+AI+projects+with+real-world+impact;Exploring+ML%2C+data+science%2C+and+3D+visualization;Growing+through+projects%2C+practice%2C+and+curiosity" alt="Typing intro" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simran-gupta-72b639334/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptayashi705@gmail.com) 
+<p align="center">
+  <a href="https://github.com/kritikagupta-hub"><img src="https://img.shields.io/badge/GitHub-kritikagupta--hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kritika-gupta-688035304/"><img src="https://img.shields.io/badge/LinkedIn-Kritika%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kritikagupta16102005@gmail.com"><img src="https://img.shields.io/badge/Email-kritikagupta16102005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=simranGupta7084&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=simranGupta7084&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-ff6b6b?style=flat-square&logo=academia&logoColor=white" alt="B.Tech Data Science" />
+  <img src="https://img.shields.io/badge/SGPA-8.6-feca57?style=flat-square&logo=googlescholar&logoColor=black" alt="SGPA 8.6" />
+  <img src="https://img.shields.io/badge/Location-Kanpur%2C%20India-48dbfb?style=flat-square&logo=googlemaps&logoColor=white" alt="Kanpur India" />
+  <img src="https://img.shields.io/badge/Current%20Role-Project%20Intern%20at%20IIT%20Kanpur-5f27cd?style=flat-square&logo=databricks&logoColor=white" alt="IIT Kanpur Intern" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=simranGupta7084&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a Computer Science undergraduate specializing in Data Science at Maharana Pratap Engineering College. I enjoy building practical machine learning systems, data-driven applications, and full-stack products that solve meaningful problems in a simple way.
+
+Right now, I am focused on machine learning, NLP, forecasting, recommendation systems, DSA, and visualization-powered tools.
+
+## What I Am Working On
+
+- Developing an interactive training data selection system at `IIT Kanpur` using `VTK` and `PyQt5`
+- Practicing `DSA` and core CS concepts to strengthen problem-solving skills
+- Building AI and analytics projects that combine clean design with useful outcomes
+
+## Experience
+
+### Project Intern | IIT Kanpur
+
+I am working on a visualization-driven framework for machine learning data preparation. The project involves 3D volumetric exploration, isosurface rendering, and interactive data filtering using `VTK`, `PyQt5`, and `vtkContourFilter`.
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,django,mysql,sqlite,tensorflow,git,github,vscode" alt="Skill icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/VTK-2C3E50?style=for-the-badge" alt="VTK" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" />
+</p>
+
+## Featured Projects
+
+| Project | What It Does | Stack |
+|---|---|---|
+| [MindSpace Mental Health Tracker](https://github.com/kritikagupta-hub/MindSpace-Mental-Health-Tracker) | A web application built to help users track and improve mental well-being through a supportive digital experience. | `HTML` `CSS` `JavaScript` |
+| [Stock Prediction System](https://github.com/kritikagupta-hub/Stock-prediction) | A forecasting project using `LSTM` models, feature scaling, and time-series analysis for stock trend prediction. | `Python` `TensorFlow` `Keras` `Pandas` `NumPy` |
+| [DSA Practice Repository](https://github.com/kritikagupta-hub/DSA) | A collection of interview-focused problems, optimized solutions, and problem-solving patterns in `C++`. | `C++` `DSA` `Algorithms` |
+| AI Movie Recommendation System | A personalized movie recommendation app that uses natural language understanding and content-based filtering. | `React` `Vite` `JavaScript` `Groq API` |
+
+## Certifications
+
+- Joy of Computing Using Python - `NPTEL`
+- Data Analyst Job Simulation - `Deloitte Forage`
+- Cybersecurity Analyst Job Simulation - `Forage`
+- Python for Data Science - `IBM`
+- Introduction to Database Systems - `NPTEL`
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kritikagupta-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikagupta-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kritikagupta-hub&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## Let Us Connect
+
+<p align="center">
+  <a href="mailto:kritikagupta16102005@gmail.com"><img src="https://img.shields.io/badge/Reach%20Out-Email%20Me-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/kritika-gupta-688035304/"><img src="https://img.shields.io/badge/Let%27s%20Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn connect" /></a>
+  <a href="https://github.com/kritikagupta-hub"><img src="https://img.shields.io/badge/Explore-My%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+</p>
+
+<!-- profile-refresh: 2026-04-16-colorful -->
