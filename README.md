@@ -1,19 +1,94 @@
-# 💫 About Me:
-👋 Hi, I'm Simran Gupta<br><br>🔭 I’m currently working on<br>Building data analytics projects and machine learning using Python, SQL,R,Statistical analysis and Power BI<br><br>🤝 I’m looking to collaborate on<br>Seeking opportunities to deepen ML knowledge through practical learning Internship and research-oriented programs.<br><br>🆘 I’m  Passionate about<br> Artificial Intelligence and Machine Learning with hands-on experience in data, exploratory data analysis, model building, evaluation and scalable system design<br><br>🌱 I’m currently learning<br>Data structures & algorithms, machine learning Model, and advanced SQL<br><br>💬 Ask me about<br>Python, SQL, Python, SQL, R, C++
-Machine Learning: Supervised Learning, Unsupervised Learning, Classification, Regression, Recommenda-
-tion Systems<br><br>⚡ Fun fact<br>I enjoy stepping out of my comfort zone and learning new skills through hands-on practice 🚀
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2E75B6,35:48dbfb,70:5f27cd,100:1F4E79&text=Simran%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Data%20Science%20Student%20%7C%20SIH%20Qualifier&descAlignY=58&animation=fadeIn" alt="Simran Gupta banner" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=2E75B6&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+with+ML+%26+NLP;Turning+raw+data+into+meaningful+decisions;Exploring+AI%2C+Deep+Learning+%26+Predictive+Analytics;Open+to+AI%2FML+Internships+%26+Collaborations" alt="Typing intro" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simran-gupta-72b639334/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptayashi705@gmail.com) 
+<p align="center">
+  <a href="https://github.com/simranGupta7084"><img src="https://img.shields.io/badge/GitHub-simranGupta7084-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/simran-gupta-72b639334/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:guptayashi705@gmail.com"><img src="https://img.shields.io/badge/Email-guptayashi705%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=simranGupta7084&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=simranGupta7084&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-2E75B6?style=flat-square&logo=academia&logoColor=white" alt="B.Tech Data Science" />
+  <img src="https://img.shields.io/badge/CGPA-8.0-48dbfb?style=flat-square&logo=googlescholar&logoColor=black" alt="CGPA 8.0" />
+  <img src="https://img.shields.io/badge/Location-Kanpur%2C%20India-5f27cd?style=flat-square&logo=googlemaps&logoColor=white" alt="Kanpur India" />
+  <img src="https://img.shields.io/badge/SIH-Internal%20Round%20Qualifier-1F4E79?style=flat-square&logo=databricks&logoColor=white" alt="SIH Qualifier" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=simranGupta7084&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a 3rd year Computer Science undergraduate specializing in Data Science at Maharana Pratap Engineering College, Kanpur. I enjoy building practical machine learning systems — from NLP-powered recommendation engines to predictive dashboards that drive real business decisions.
+
+I got hooked on ML the moment I saw a recommendation engine predict something right. Since then I have been building, learning, and going deeper — one model at a time.
+
+Currently focused on machine learning, NLP, predictive analytics, feature engineering, and data visualization.
+
+## What I Am Working On
+
+- Strengthening **Deep Learning** and **Neural Networks** fundamentals with PyTorch and HuggingFace
+- Practicing **DSA** — currently focused on Dynamic Programming and Graphs (200+ problems solved)
+- Building AI and analytics projects that combine clean pipelines with meaningful outcomes
+
+## Experience
+
+### Industry Simulations
+
+**Tata GenAI Simulation** — Performed AI-driven EDA, data preprocessing, and structured reporting on real-world datasets, simulating end-to-end data science workflows.
+
+**Deloitte Data Analytics Simulation** — Built business dashboards and delivered data-driven insights simulating real stakeholder communication and reporting.
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,mysql,sklearn,git,github,vscode" alt="Skill icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+</p>
+
+## Featured Projects
+
+| Project | What It Does | Stack |
+|---|---|---|
+| Internship Recommendation System | NLP-powered engine that matches student profiles to relevant internships using TF-IDF vectorization and cosine similarity. Built for Smart India Hackathon (SIH). | `Python` `Scikit-learn` `TF-IDF` `Pandas` `NumPy` |
+| AI-Based Customer Behavior Analysis | ML classification system that predicts and segments customer behavior with model evaluation using accuracy, precision, recall, and F1-score. | `Python` `Scikit-learn` `Pandas` `NumPy` `EDA` |
+| Sales Data Warehouse & Analytics System | End-to-end data warehouse with star schema design, ETL pipeline, and interactive dashboards for business KPI monitoring. | `Python` `SQL` `Power BI` `ETL` |
+| Startup Growth Prediction Dashboard | Predictive analytics dashboard combining Python-based data processing with Power BI visualizations for business performance evaluation. | `Python` `SQL` `Power BI` `Pandas` |
+
+## Achievements & Certifications
+
+- **Smart India Hackathon (SIH)** — Selected in internal round at MPEC, Kanpur
+- **Elite Certification in Python** — NPTEL, IIT Madras
+- **5-Star Rating** in Problem Solving, Python, and SQL — HackerRank
+- Solved **200+ DSA problems** on LeetCode and HackerRank
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simranGupta7084&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranGupta7084&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=simranGupta7084&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## Let Us Connect
+
+<p align="center">
+  <a href="mailto:guptayashi705@gmail.com"><img src="https://img.shields.io/badge/Reach%20Out-Email%20Me-2E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/simran-gupta-72b639334/"><img src="https://img.shields.io/badge/Let%27s%20Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn connect" /></a>
+  <a href="https://github.com/simranGupta7084"><img src="https://img.shields.io/badge/Explore-My%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+</p>
+
+<!-- profile-refresh: 2026-06-10 -->
