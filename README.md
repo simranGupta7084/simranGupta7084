@@ -1,121 +1,163 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2E75B6,35:48dbfb,70:5f27cd,100:1F4E79&text=Simran%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Data%20Science%20Student%20%7C%20Problem%20Solver&descAlignY=58&animation=fadeIn" alt="Simran Gupta banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F77DD,50:1D9E75,100:378ADD&text=Simran%20Gupta&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=I%20build%20things%20that%20learn%20%E2%80%94%20classifiers%2C%20recommenders%2C%20RAG%20agents%2C%20dashboards&descAlignY=58&descSize=14&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=2E75B6&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+with+ML+%26+NLP;Turning+raw+data+into+meaningful+decisions;Exploring+AI%2C+Deep+Learning+%26+Predictive+Analytics;Open+to+AI%2FML+Internships+%26+Collaborations" alt="Typing intro" />
+  <a href="https://www.linkedin.com/in/simran-gupta-72b639334/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/simranGupta7084"><img src="https://img.shields.io/badge/GitHub-simranGupta7084-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="mailto:guptayashi705@gmail.com"><img src="https://img.shields.io/badge/Email-guptayashi705%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/simranGupta7084"><img src="https://img.shields.io/badge/GitHub-simranGupta7084-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/simran-gupta-72b639334/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:guptayashi705@gmail.com"><img src="https://img.shields.io/badge/Email-guptayashi705%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-2E75B6?style=flat-square&logo=academia&logoColor=white" alt="B.Tech Data Science" />
-  <img src="https://img.shields.io/badge/CGPA-8.0-48dbfb?style=flat-square&logo=googlescholar&logoColor=black" alt="CGPA 8.0" />
-  <img src="https://img.shields.io/badge/Location-Kanpur%2C%20India-5f27cd?style=flat-square&logo=googlemaps&logoColor=white" alt="Kanpur India" />
-  <img src="https://img.shields.io/badge/Year-Final%20Year-1F4E79?style=flat-square&logo=mortarboard&logoColor=white" alt="Final Year" />
-  <img src="https://img.shields.io/badge/HackerRank-5%20Star-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank 5 Star" />
-  <img src="https://img.shields.io/badge/NPTEL-Elite%20Python-FF6B35?style=flat-square&logo=python&logoColor=white" alt="NPTEL Elite" />
+  <img src="https://img.shields.io/badge/CSE%20(Data%20Science)-Final%20Year-7F77DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CGPA-8.0-1D9E75?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-Elite%20Python-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-200%2B%20problems-378ADD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20internships-brightgreen?style=flat-square"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## Projects
 
-I'm Simran — a final year CSE (Data Science) student from Kanpur who got hooked on ML the moment I saw a recommendation engine predict something right. Since then I've been building — a customer behavior classifier, a startup growth predictor, an NLP-based internship recommender.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-I'm not the kind of developer who only codes for grades. I code because I genuinely want to understand how intelligent systems work.
+**[`🟣`](#) Internship Recommendation System**
+NLP engine matching student profiles to roles via TF-IDF + cosine similarity. Built for Smart India Hackathon — qualified internal round.
 
-Still learning. Always building. 🚀
+![NLP](https://img.shields.io/badge/NLP-7F77DD?style=flat-square&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-7F77DD?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1D9E75?style=flat-square)
 
-Currently focused on **machine learning, NLP, predictive analytics, feature engineering, and deep learning.**
+</td>
+<td width="50%" valign="top">
+
+**[`🟢`](#) Customer Behavior Analysis**
+ML classifier segmenting customers — F1 improved **0.61 → 0.78** through feature engineering and model tuning.
+
+![Classification](https://img.shields.io/badge/Classification-1D9E75?style=flat-square)
+![F1%3A0.78](https://img.shields.io/badge/F1%3A%200.78-1D9E75?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-378ADD?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[`🟠`](#) AI Customer Support RAG Agent**
+Full-stack RAG chatbot (FastAPI + React + vector DB). Grounds LLM responses in company docs — not hallucinations.
+
+![RAG](https://img.shields.io/badge/RAG-D85A30?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-D85A30?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-D4537E?style=flat-square)
+![React](https://img.shields.io/badge/React-378ADD?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[`🔵`](#) URL Shortener**
+Full-stack link shortener built under proctored assessment — React + Node.js + MongoDB with click analytics.
+
+![React](https://img.shields.io/badge/React-378ADD?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-378ADD?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-BA7517?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[`🩷`](#) Startup Analytics Dashboard**
+MERN stack analytics dashboard — KPI cards, Recharts visualizations, and rule-based survival risk scoring.
+
+![MERN](https://img.shields.io/badge/MERN-D4537E?style=flat-square)
+![Recharts](https://img.shields.io/badge/Recharts-378ADD?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-BA7517?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[`🟢`](#) Sales Data Warehouse**
+End-to-end DWH with star schema, ETL pipeline, and Power BI dashboards for KPI monitoring.
+
+![SQL](https://img.shields.io/badge/SQL-1D9E75?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-1D9E75?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-BA7517?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I Am Working On
-
-- 🧠 Strengthening **Deep Learning** and **Neural Networks** with PyTorch and HuggingFace
-- 💻 Practicing **DSA** — solved Arrays, Strings, Linked Lists, Hashing, Recursion, Sorting; currently working on Dynamic Programming, Trees, and Graphs
-- 📊 Building AI and analytics projects that combine clean pipelines with meaningful outcomes
-- 🎯 Actively seeking **AI/ML internship opportunities**
-
----
-
-## 🏆 Achievements & Certifications
-
-| Achievement | Details |
-|---|---|
-| 🥇 Smart India Hackathon (SIH) | Selected in internal round at MPEC, Kanpur — built ML-based Recommendation System |
-| 📜 NPTEL Elite Certification | Python — IIT Madras (nationally recognized) |
-| ⭐ HackerRank 5-Star | Problem Solving, Python, and SQL |
-| 🏅 Deloitte Simulation | Data Analytics Job Simulation — Forage |
-| 🏅 Tata Simulation | GenAI Data Analytics — Forage |
-
----
-
-## 🛠️ Tech Stack
+## Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,r,mysql,sklearn,git,github,vscode" alt="Skill icons" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=simranGupta7084&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranGupta7084&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+  <img src="https://streak-stats.demolab.com?user=simranGupta7084&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## Tech Stack
 
-| Project | What It Does | Stack |
+**Core — AI/ML**
+
+![Python](https://img.shields.io/badge/Python-7F77DD?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7F77DD?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-7F77DD?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-7F77DD?style=for-the-badge&logo=huggingface&logoColor=white)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-1D9E75?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1D9E75?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1D9E75?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-1D9E75?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1D9E75?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Web & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-378ADD?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-378ADD?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-378ADD?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-378ADD?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-378ADD?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## Achievements
+
+| | Achievement | Details |
 |---|---|---|
-| 🤖 Internship Recommendation System | NLP-powered engine matching student profiles to internships using TF-IDF and cosine similarity. Built for **Smart India Hackathon (SIH)**. | `Python` `Scikit-learn` `TF-IDF` `Pandas` `NumPy` |
-| 📊 AI-Based Customer Behavior Analysis | ML classification system predicting and segmenting customer behavior — evaluated with accuracy, precision, recall, and F1-score. | `Python` `Scikit-learn` `Pandas` `NumPy` `EDA` |
-| 🏭 Sales Data Warehouse & Analytics System | End-to-end data warehouse with star schema design, ETL pipeline, and interactive dashboards for KPI monitoring. | `Python` `SQL` `Power BI` `ETL` |
-| 📈 Startup Growth Prediction Dashboard | Predictive analytics dashboard combining Python pipelines with Power BI visualizations for business performance evaluation. | `Python` `SQL` `Power BI` `Pandas` |
+| 🏆 | **SIH Internal Qualifier** | ML-based Internship Recommendation System — MPEC Kanpur |
+| 📜 | **NPTEL Elite — Python** | IIT Madras, nationally recognized certification |
+| ⭐ | **HackerRank 5-Star** | Python, Problem Solving, SQL |
+| 🏅 | **Deloitte Simulation** | Data Analytics — Forage |
+| 🏅 | **Tata GenAI Simulation** | AI-driven EDA and data analysis — Forage |
 
 ---
 
-## 💼 Experience
+## Currently Building
 
-**Tata GenAI Simulation** — AI-driven EDA, data preprocessing, and structured reporting on real-world datasets.
-
-**Deloitte Data Analytics Simulation** — Built business dashboards and delivered data-driven insights simulating stakeholder communication.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simranGupta7084&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranGupta7084&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=simranGupta7084&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+```
+▸ Deep Learning with PyTorch + HuggingFace  ············  16-week roadmap in progress
+▸ DSA — Dynamic Programming, Trees, Graphs  ············  active
+▸ Google Student Researcher application     ············  targeting 2025 intake
+▸ Live portfolio deployment                 ············  in progress
+```
 
 ---
 
-## 🤝 Let Us Connect
-
 <p align="center">
-  <a href="mailto:guptayashi705@gmail.com"><img src="https://img.shields.io/badge/Reach%20Out-Email%20Me-2E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/simran-gupta-72b639334/"><img src="https://img.shields.io/badge/Let%27s%20Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn connect" /></a>
-  <a href="https://github.com/simranGupta7084"><img src="https://img.shields.io/badge/Explore-My%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=simranGupta7084&color=7F77DD&style=flat-square&label=profile+views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simranGupta7084&color=2E75B6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-<!-- profile-refresh: 2026-06-10 -->
+<p align="center"><i>Always learning. Always shipping.</i></p>
