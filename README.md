@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm Simran — a final year CSE (Data Science) student from Kanpur who got hooked on ML the moment I saw a recommendation engine predict something right. Since then I've been building — a customer behavior classifier, a startup growth predictor, an NLP-based internship recommender, a full-stack RAG chatbot.
+I'm Simran — a final year CSE (Data Science) student from Kanpur who got hooked on ML the moment I saw a recommendation engine predict something right. Since then I've been building — a customer behavior classifier, a startup growth predictor, an NLP-based internship recommender, and working on RAG chatbot.
 
 I'm not the kind of developer who only codes for grades. I code because I genuinely want to understand how intelligent systems work.
 
