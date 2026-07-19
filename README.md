@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F77DD,50:1D9E75,100:378ADD&text=Simran%20Gupta&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=I%20build%20things%20that%20learn%20%E2%80%94%20classifiers%2C%20recommenders%2C%20RAG%20agents%2C%20dashboards&descAlignY=58&descSize=14&animation=fadeIn" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F77DD,50:1D9E75,100:378ADD&text=Simran%20Gupta&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=I%20build%20things%20that%20learn%20%E2%80%94%20classifiers%2C%20recommenders%2C%20RAG%20agents%2C%20dashboards&descAlignY=58&descSize=14&animation=fadeIn" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simran-gupta-72b639334/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
@@ -154,15 +154,170 @@ End-to-end DWH with star schema, ETL pipeline, and Power BI dashboards for KPI m
 | 🏅 | **Tata GenAI Simulation** | AI-driven EDA and data analysis — Forage |
 
 ---
+---
 
-## Currently Building
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simranGupta7084&color=7F77DD&style=flat-square&label=profile+views" />
+</p>
 
-```
-▸ Deep Learning with PyTorch + HuggingFace  ············  16-week roadmap in progress
-▸ DSA — Dynamic Programming, Trees, Graphs  ············  active
-▸ Google Student Researcher application     ············  targeting 2025 intake
-▸ Live portfolio deployment                 ············  in progress
-```
+<p align="center"><i>Always learning. Always shipping.</i></p> -->
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F77DD,50:1D9E75,100:378ADD&text=Simran%20Gupta&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Science%20%2B%20Full%20Stack%20%E2%80%94%20I%20build%20systems%20that%20learn%20and%20ship&descAlignY=58&descSize=14&animation=fadeIn" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/simran-gupta-72b639334/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/simranGupta7084"><img src="https://img.shields.io/badge/GitHub-simranGupta7084-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="mailto:guptayashi705@gmail.com"><img src="https://img.shields.io/badge/Email-guptayashi705%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE%20(Data%20Science)-Final%20Year-7F77DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CGPA-8.0-1D9E75?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-Elite%20Python-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-200%2B%20problems-378ADD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Science%20%7C%20Full%20Stack-brightgreen?style=flat-square"/>
+</p>
+
+---
+
+## About Me
+
+I'm Simran — final-year CSE (Data Science) student from Kanpur. I work on both sides of the stack: building models that predict something useful, and building the API or interface that actually gets them in front of a user. A churn model sitting in a notebook doesn't help anyone — so I care as much about the FastAPI endpoint around it as the F1-score inside it.
+
+Most of what's below started as a class project or a hackathon deadline and turned into something I kept improving after the deadline passed.
+
+> *Still learning. Always shipping.*
+
+---
+
+## Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[`🟣`](#) Customer Behavior Prediction System**
+Churn classifier — F1 improved **0.61 → 0.78** using XGBoost with imbalance handling, deployed as a FastAPI REST endpoint.
+
+![XGBoost](https://img.shields.io/badge/XGBoost-1D9E75?style=flat-square)
+![F1%3A0.78](https://img.shields.io/badge/F1%3A%200.78-1D9E75?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-1D9E75?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[`🟢`](#) Retail Demand Forecasting**
+Time-series forecasting pipeline using Facebook Prophet on the Kaggle Superstore dataset — translates forecast error into estimated inventory cost impact.
+
+![Prophet](https://img.shields.io/badge/Prophet-378ADD?style=flat-square)
+![TimeSeries](https://img.shields.io/badge/Time%20Series-378ADD?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-378ADD?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[`🟠`](#) AI Study Companion Portal**
+RAG-based study assistant — grounds answers in a user's own documents with page-level citations. Built with a teammate.
+
+![RAG](https://img.shields.io/badge/RAG-D85A30?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-D85A30?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-D85A30?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-D4537E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[`🔵`](#) Internship Recommendation System**
+NLP engine matching student profiles to roles via TF-IDF + cosine similarity. Built for Smart India Hackathon — qualified internal round.
+
+![NLP](https://img.shields.io/badge/NLP-7F77DD?style=flat-square)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-7F77DD?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7F77DD?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[`🩷`](#) URL Shortener**
+Full-stack link shortener built under proctored assessment — React + Node.js + MongoDB with click analytics.
+
+![React](https://img.shields.io/badge/React-378ADD?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-378ADD?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-BA7517?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[`🟢`](#) Startup Growth & CRM Analytics Dashboard**
+MERN stack analytics dashboard — KPI cards, Recharts visualizations, and rule-based survival risk scoring.
+
+![MERN](https://img.shields.io/badge/MERN-D4537E?style=flat-square)
+![Recharts](https://img.shields.io/badge/Recharts-D4537E?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-BA7517?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=simranGupta7084&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranGupta7084&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=simranGupta7084&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Tech Stack
+
+**Data Science & ML**
+
+![Python](https://img.shields.io/badge/Python-7F77DD?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7F77DD?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-7F77DD?style=for-the-badge&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-7F77DD?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7F77DD?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-7F77DD?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Full Stack Development**
+
+![React](https://img.shields.io/badge/React-378ADD?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-378ADD?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-378ADD?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-378ADD?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-378ADD?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Data, Tools & Databases**
+
+![SQL](https://img.shields.io/badge/SQL-1D9E75?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-1D9E75?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1D9E75?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D9E75?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Achievements
+
+| | Achievement | Details |
+|---|---|---|
+| 🏆 | **SIH Internal Qualifier** | ML-based Internship Recommendation System — MPEC Kanpur |
+| 📜 | **NPTEL Elite — Python** | IIT Madras, nationally recognized certification |
+| ⭐ | **HackerRank 5-Star** | Python, Problem Solving, SQL |
+| 🏅 | **Deloitte Simulation** | Data Analytics — Forage |
+| 🏅 | **Tata GenAI Simulation** | AI-driven EDA and data analysis — Forage |
 
 ---
 
