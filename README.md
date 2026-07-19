@@ -165,8 +165,7 @@ End-to-end DWH with star schema, ETL pipeline, and Power BI dashboards for KPI m
 
  -->
 
-
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F77DD,50:1D9E75,100:378ADD&text=Simran%20Gupta&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Science%20%2B%20Full%20Stack%20%E2%80%94%20I%20build%20systems%20that%20learn%20and%20ship&descAlignY=58&descSize=14&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F77DD,50:1D9E75,100:378ADD&text=Simran%20Gupta&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Turning%20data%20into%20models%20that%20actually%20work&descAlignY=58&descSize=14&animation=fadeIn" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simran-gupta-72b639334/"><img src="https://img.shields.io/badge/LinkedIn-Simran%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
@@ -179,19 +178,18 @@ End-to-end DWH with star schema, ETL pipeline, and Power BI dashboards for KPI m
   <img src="https://img.shields.io/badge/CGPA-8.0-1D9E75?style=flat-square"/>
   <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPTEL-Elite%20Python-FF6B35?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-200%2B%20problems-378ADD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Science%20%7C%20Full%20Stack-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-250%2B%20problems-378ADD?style=flat-square"/>
 </p>
 
 ---
 
 ## About Me
 
-I'm Simran — final-year CSE (Data Science) student from Kanpur. I work on both sides of the stack: building models that predict something useful, and building the API or interface that actually gets them in front of a user. A churn model sitting in a notebook doesn't help anyone — so I care as much about the FastAPI endpoint around it as the F1-score inside it.
+I'm Simran, a final-year CSE (Data Science) student from Kanpur. I like turning messy data into something useful — a model that predicts, a dashboard that explains, a system that actually answers a question instead of just storing it.
 
-Most of what's below started as a class project or a hackathon deadline and turned into something I kept improving after the deadline passed.
+Most of what's below started as a class project or a hackathon deadline, and I kept improving it long after the deadline passed.
 
-> *Still learning. Always shipping.*
+> *Still learning. Always building.*
 
 ---
 
@@ -224,17 +222,6 @@ Time-series forecasting pipeline using Facebook Prophet on the Kaggle Superstore
 <tr>
 <td width="50%" valign="top">
 
-**[`🟠`](#) AI Study Companion Portal**
-RAG-based study assistant — grounds answers in a user's own documents with page-level citations. Built with a teammate.
-
-![RAG](https://img.shields.io/badge/RAG-D85A30?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-D85A30?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-D85A30?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-D4537E?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
 **[`🔵`](#) Internship Recommendation System**
 AI-powered recommendation engine using sentence-transformer embeddings + cosine similarity to rank internships by semantic relevance. Built for Smart India Hackathon — qualified internal round.
 
@@ -243,9 +230,6 @@ AI-powered recommendation engine using sentence-transformer embeddings + cosine 
 ![MongoDB](https://img.shields.io/badge/MongoDB-7F77DD?style=flat-square)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 **[`🩷`](#) URL Shortener**
@@ -256,6 +240,9 @@ Full-stack link shortener built under proctored assessment — React + Node.js +
 ![MongoDB](https://img.shields.io/badge/MongoDB-BA7517?style=flat-square)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 **[`🟢`](#) Startup Growth & CRM Analytics Dashboard**
@@ -266,9 +253,6 @@ MERN stack analytics dashboard — KPI cards, Recharts visualizations, and rule-
 ![MongoDB](https://img.shields.io/badge/MongoDB-BA7517?style=flat-square)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 **[`🟡`](#) Campus Lost & Found Matcher**
@@ -277,9 +261,6 @@ Lost-and-found platform with automatic match suggestions using TF-IDF + cosine s
 ![React](https://img.shields.io/badge/React-378ADD?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-378ADD?style=flat-square)
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-378ADD?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -336,6 +317,7 @@ Lost-and-found platform with automatic match suggestions using TF-IDF + cosine s
 | 🏆 | **SIH Internal Qualifier** | ML-based Internship Recommendation System — MPEC Kanpur |
 | 📜 | **NPTEL Elite — Python** | IIT Madras, nationally recognized certification |
 | ⭐ | **HackerRank 5-Star** | Python, Problem Solving, SQL |
+| 💻 | **250+ DSA Problems Solved** | LeetCode, GeeksforGeeks, HackerRank |
 | 🏅 | **Deloitte Simulation** | Data Analytics — Forage |
 | 🏅 | **Tata GenAI Simulation** | AI-driven EDA and data analysis — Forage |
 
