@@ -304,6 +304,7 @@ Lost-and-found platform with automatic match suggestions using TF-IDF + cosine s
 **Data, Tools & Databases**
 
 ![SQL](https://img.shields.io/badge/SQL-1D9E75?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D9E75?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-1D9E75?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1D9E75?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1D9E75?style=for-the-badge&logo=git&logoColor=white)
